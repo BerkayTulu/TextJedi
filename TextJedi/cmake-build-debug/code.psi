@@ -1,0 +1,5 @@
+new int myint;
+new text myString;
+myString := "ababbsdfsadf" ;
+myint := 2;
+output myint;
